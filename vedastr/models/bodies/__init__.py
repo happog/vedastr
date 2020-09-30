@@ -4,3 +4,4 @@ from .sequences import build_sequence_encoder, build_sequence_decoder
 from .component import RectificatorComponent, FeatureExtractorComponent, SequenceEncoderComponent
 from .body import GBody
 from .builder import build_component, build_body
+
